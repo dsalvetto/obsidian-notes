@@ -153,13 +153,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
+      "graph:Abrir vista gráfica": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false
     }
   },
   "active": "35f7353663356fd3",
