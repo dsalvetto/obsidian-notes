@@ -26,59 +26,35 @@ Vemos al computador como un procesador de datos.
 
 ![[Entrada-Salida-1.png]]
 
-### **Organización de la Computadora**
+### Organización de la Computadora
 
-  
-
-- Dispositivos de entrada
-
+##### Dispositivos de entrada
     - Teclado
-
     - Mouse
-
     - Pantalla Táctil
-
     - Micrófono
 
-- Dispositivos de salida
-
+##### Dispositivos de salida
     - Monitor
-
     - Impresora
-
     - Parlante
 
-- Memoria: interna, externa.
-
+##### Memoria: 
+- Interna
+- Externa.
 - Unidad Central de Proceso (UCP)
 
-  
+### Unidad Central de Proceso
 
-### **Unidad Central de Proceso**
-
-  
-
-Unidad de Control:
-
-  
-
+##### Unidad de Control:
 - Carga instrucciones en memoria (programa)
-
 - Ejecuta las instrucciones
 
-  
-
-Unidad Aritmética Lógica
-
-  
+##### Unidad Aritmética Lógica
 
 - Ejecuta operaciones aritméticas y lógicas.
 
-  
-
-### **Compilación**
-
-  
+### Compilación
 
 Lenguajes de alto nivel: pascal, java, C, python, etc.
 
