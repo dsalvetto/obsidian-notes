@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "439adb609467a8c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a13041e5411f5f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d365aa20d28fd902",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "710dc07f826331b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5a432e4a587982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e46512f1720447",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b2510608e6bdd3ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f5ff228a6c0857e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5177a383b3682194",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5afc65ff2723698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0df37ebb48a5c9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "4457b89cc449bd4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "410cb78d0b3a730d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c70d9a8501079976",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "ad316d60edd2a77f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "ad316d60edd2a77f",
+  "lastOpenFiles": [
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Material Semana 2 1c15e86a483980f4b85cca87c2838da7.md",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc.md",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577.md",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc/F8F94AD2-EE30-4D0E-93B6-09904609828D.png",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc/2506D50D-628E-4E06-8D15-9D123B381BB8.png",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/B1A2536D-2A07-42C0-8535-BF384C311979.png",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/63F08CE8-DFD6-478C-A868-817894AF797F.png",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/59F9BEC4-494F-4348-BC65-AA8691E4D016.png",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/18F2FA80-5B9B-4909-AEE4-73C1C299FA52.png",
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/7E7381E1-2C8A-43D4-B3C4-0E6986E8AB13.png"
+  ]
+}
