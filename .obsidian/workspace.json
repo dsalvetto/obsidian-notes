@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d365aa20d28fd902",
+            "id": "0fd57cbd60d0e404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion I/Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 2/Componentes Básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "Componentes Básicos"
             }
           },
           {
-            "id": "c64d00fdb77e0fcb",
+            "id": "3f3568a220d457a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Programacion I/Semana 1/Introducción.md",
-                "mode": "source",
-                "source": false
+                "url": "https://eva.fing.edu.uy/pluginfile.php/219324/mod_resource/content/5/03-GuiaEntradaYSalida.pdf",
+                "title": "Entrada y Salida",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Introducción"
-            }
-          },
-          {
-            "id": "e3f3c1f4c0bd6807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion I/Semana 1/Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introducción"
+              "icon": "globe-2",
+              "title": "Entrada y Salida"
             }
           }
         ]
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion I/Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 2/Componentes Básicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Introducción"
+              "title": "Enlaces entrantes de Componentes Básicos"
             }
           },
           {
@@ -141,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion I/Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 2/Componentes Básicos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Introducción"
+              "title": "Enlaces salientes de Componentes Básicos"
             }
           },
           {
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion I/Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 2/Componentes Básicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Introducción"
+              "title": "Esquema de Componentes Básicos"
             }
           },
           {
@@ -190,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +194,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d365aa20d28fd902",
+  "active": "91e46512f1720447",
   "lastOpenFiles": [
+    "Programacion I/Images/Entrada-Salida-1.png",
+    "Programacion I/Semana 2/Componentes Básicos.md",
+    "Programacion I/Images",
+    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
+    "Programacion I/PDFs/Práctico 2.md",
+    "Programacion I/PDFs/Práctico 1.md",
+    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
     "Programacion I/PDFs/Presentación del curso.md",
     "Programacion I/Semana 1/Introducción.md",
+    "[Componentes Básicos.md",
+    "[Componentes.md",
+    "Programacion I/Semana 2",
     "PPT.md",
     "Programacion I/PDFs",
     "Programacion I/Semana 1",
