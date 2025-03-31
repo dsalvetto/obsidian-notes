@@ -11,13 +11,28 @@
             "id": "d365aa20d28fd902",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "c64d00fdb77e0fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semana 1/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Introducción"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5177a383b3682194",
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semana 1/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Introducción"
             }
           },
           {
@@ -108,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "Semana 1/Introducción.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Introducción"
             }
           },
           {
@@ -136,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Semana 1/Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Introducción"
             }
           },
           {
@@ -155,11 +174,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +193,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ad316d60edd2a77f",
+  "active": "c64d00fdb77e0fcb",
   "lastOpenFiles": [
+    "Semana 1/Introducción.md",
+    "Semana 1",
+    "Programacion I",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Material Semana 2 1c15e86a483980f4b85cca87c2838da7.md",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc.md",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577.md",
