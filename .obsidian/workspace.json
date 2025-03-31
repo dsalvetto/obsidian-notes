@@ -11,10 +11,14 @@
             "id": "d365aa20d28fd902",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/Semana 1/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
             }
           },
           {
@@ -23,7 +27,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 1/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
+            }
+          },
+          {
+            "id": "e3f3c1f4c0bd6807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/Semana 1/Introducción.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,8 +49,7 @@
               "title": "Introducción"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5177a383b3682194",
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 1/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 1/Introducción.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semana 1/Introducción.md",
+                "file": "Programacion I/Semana 1/Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,10 +209,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c64d00fdb77e0fcb",
+  "active": "d365aa20d28fd902",
   "lastOpenFiles": [
-    "Semana 1/Introducción.md",
-    "Semana 1",
+    "Programacion I/PDFs/Presentación del curso.md",
+    "Programacion I/Semana 1/Introducción.md",
+    "PPT.md",
+    "Programacion I/PDFs",
+    "Programacion I/Semana 1",
     "Programacion I",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Material Semana 2 1c15e86a483980f4b85cca87c2838da7.md",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc.md",
