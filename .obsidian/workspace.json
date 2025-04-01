@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Componentes Básicos"
             }
-          },
-          {
-            "id": "3f3568a220d457a5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://eva.fing.edu.uy/pluginfile.php/219324/mod_resource/content/5/03-GuiaEntradaYSalida.pdf",
-                "title": "Entrada y Salida",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Entrada y Salida"
-            }
           }
         ]
       }
@@ -180,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +183,16 @@
   },
   "active": "91e46512f1720447",
   "lastOpenFiles": [
-    "Programacion I/Images/Entrada-Salida-1.png",
+    "Programacion I/Images/compilar-pascal 1.png",
+    "{79B2D88A-DB0C-4222-AAA4-40856D93D4C9}.png",
     "Programacion I/Semana 2/Componentes Básicos.md",
-    "Programacion I/Images",
-    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
-    "Programacion I/PDFs/Práctico 2.md",
+    "Programacion I/Images/compilar-pascal.png",
     "Programacion I/PDFs/Práctico 1.md",
     "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
+    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
+    "Programacion I/Images/Entrada-Salida-1.png",
+    "Programacion I/Images",
+    "Programacion I/PDFs/Práctico 2.md",
     "Programacion I/PDFs/Presentación del curso.md",
     "Programacion I/Semana 1/Introducción.md",
     "[Componentes Básicos.md",

@@ -57,88 +57,46 @@ Vemos al computador como un procesador de datos.
 ### Compilación
 
 Lenguajes de alto nivel: pascal, java, C, python, etc.
-
 La computadora no “entiende” los lenguajes de alto nivel.
-
 Un **compilador** es un programa que traduce a código de máquina:
 
   
+![[compilar-pascal 1.png]]
+###### Al archivo que contiene el código Pascal se le llama también programa o código fuente.
 
-![{18F2FA80-5B9B-4909-AEE4-73C1C299FA52}.png](18F2FA80-5B9B-4909-AEE4-73C1C299FA52.png)
-
-  
-
-### Al archivo que contiene el código Pascal se le llama también programa o
-
-código **fuente**.
-
-  
-
-**Ejemplo de un programa pascal**
+### Ejemplo de un programa pascal
 
   
 
 ```pascal
-
-  
-
 program Triangulo;
-
 var
-
 altura,base,area: real;
-
 begin
-
 { ingresar datos }
-
 readLn(altura,base);
-
 { calcular area }
-
 area := base * altura / 2;
-
 { mostrar resultado }
-
 writeLn(area)
-
 end.
-
 ```
 
   
+### Sintaxis de los identificadores
 
-### **Sintaxis de los identificadores**
+##### Diagrama sintáctico
+![[compilar-pascal 1.png]]
+### Sintaxis de identificadores (BNF)
 
-Diagrama sintáctico
+#### BNF:
+	`identificador = letra { letra | digito }`
+##### Lenguaje Natural:
+Un identificador es una secuencia de caracteres alfanuméricos el primero de los cuáles debe ser alfabético.
 
-  
+### Sintaxis de la declaración de variables (Diagrama)
 
-### **Sintaxis de identificadores (BNF)**
-
-**BNF:**
-
-  
-
-`identificador = letra { letra | digito }`
-
-  
-
-**Lenguaje Natural:**
-
-  
-
-Un identificador es una secuencia de caracteres alfanuméricos el
-
-primero de los cuáles debe ser alfabético.
-
-  
-
-### **Sintaxis de la declaración de variables (Diagrama)**
-
-**Diagrama**
-
-  
+##### Diagrama
 
 ### **Sintaxis de la parte algorítmica**
 
