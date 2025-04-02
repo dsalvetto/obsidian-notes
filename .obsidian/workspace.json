@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fd57cbd60d0e404",
+            "id": "f03d35753779391c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 2/Entrada y Salida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Componentes Básicos"
+              "title": "Entrada y Salida"
+            }
+          },
+          {
+            "id": "8c4b6352f2444130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/Semana 2/Material Semana 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material Semana 2"
+            }
+          },
+          {
+            "id": "0086a8e20734cec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/Semana 3/Secuencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secuencia"
+            }
+          },
+          {
+            "id": "a022490f384ceb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guía teórica para Entrada - Salida"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "right": {
     "id": "5177a383b3682194",
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 3/Secuencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Componentes Básicos"
+              "title": "Enlaces entrantes de Secuencia"
             }
           },
           {
@@ -113,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 3/Secuencia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Componentes Básicos"
+              "title": "Enlaces salientes de Secuencia"
             }
           },
           {
@@ -142,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 3/Secuencia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Componentes Básicos"
+              "title": "Esquema de Secuencia"
             }
           },
           {
@@ -166,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +223,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0fd57cbd60d0e404",
+  "active": "91e46512f1720447",
   "lastOpenFiles": [
-    "Concepto_de_tipo 1.jpg",
+    "Programacion I/Semana 2/Material Semana 2.md",
+    "Programacion I/Semana 3/Secuencia.md",
+    "Programacion I/Semana 3",
+    "Programacion I/Semana 2/Entrada y Salida.md",
     "Programacion I/Semana 2/Componentes Básicos.md",
+    "Programacion I/Semana 1/Introducción.md",
+    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
+    "Programacion I/Images/Lectura_de_enteros.png",
+    "Programacion I/Images/El_tipo_real.jpg",
+    "Concepto_de_tipo 1.jpg",
     "Concepto_de_tipo.jpg",
     "Programacion I/Images/Concepto_de_tipo.jpg",
     "Programacion I/Images/Sintaxis-de-la-declaracion-de-variables .jpg",
@@ -192,13 +242,11 @@
     "{79B2D88A-DB0C-4222-AAA4-40856D93D4C9}.png",
     "Programacion I/Images/compilar-pascal.png",
     "Programacion I/PDFs/Práctico 1.md",
-    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
     "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
     "Programacion I/Images/Entrada-Salida-1.png",
     "Programacion I/Images",
     "Programacion I/PDFs/Práctico 2.md",
     "Programacion I/PDFs/Presentación del curso.md",
-    "Programacion I/Semana 1/Introducción.md",
     "[Componentes Básicos.md",
     "[Componentes.md",
     "Programacion I/Semana 2",
@@ -208,8 +256,6 @@
     "Programacion I",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Material Semana 2 1c15e86a483980f4b85cca87c2838da7.md",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc.md",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577.md",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc/F8F94AD2-EE30-4D0E-93B6-09904609828D.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc/2506D50D-628E-4E06-8D15-9D123B381BB8.png"
+    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577.md"
   ]
 }

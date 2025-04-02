@@ -1,4 +1,4 @@
-
+#semana2
 *Semana 2 del curso 2025: 10/03 al 14/03*  
 
 - Componentes básicos (parte 1).
@@ -163,248 +163,95 @@ Una expresión se construye mediante: *constantes, variables, operadores y funci
 ### El tipo real
 Representa números “*reales*”.
 Las constantes se pueden representar en notación decimal o notación exponencial.
-
+![[El_tipo_real.jpg]]
   
 ### Operadores aritméticos reales
 
-  
+| **operación**  | **símbolo** |
+| -------------- | ----------- |
+| suma           | +           |
+| resta          | -           |
+| multiplicación | *           |
+| división       | /           |
 
-operación  
-
-  
-
-suma
-
-  
-
-resta
-
-  
-
-multiplicación
-
-  
-
-división
-
-  
-
-símbolo
-
-  
-
-+
-
-  
-
--
-
-  
-
-*
-
-  
-
-/
-
-  
-
-### **Sobrecarga**
-
-  
-
+### Sobrecarga
 El mismo símbolo es usado para denotar operaciones sobre tipos diferentes.
+Por ejemplo, los símbolos +, - y * denotan la suma, resta y multiplicación tanto de enteros como de reales, respectivamente.
 
-  
-
-Por ejemplo, los símbolos +, - y * denotan la suma, resta y multiplicación
-
-tanto de enteros como de reales, respectivamente.
-
-  
-
-### **Coerción**
-
-  
-
-Argumentos que no son del tipo requerido por una función u operador son
-
-convertidos al tipo correcto.
-
-  
-
-Por ejemplo, es posible mezclar operandos de tipo entero y real en algunos
-
-operadores aritméticos. La conversión es automática.
+### Coerción
+Argumentos que no son del tipo requerido por una función u operador son convertidos al tipo correcto.
+Por ejemplo, es posible mezclar operandos de tipo entero y real en algunos operadores aritméticos. La conversión es automática.
 
 Ejemplos:
 
-  
+| **expresión** | **conversión** |
+| ------------- | -------------- |
+| 3 + 2.5       | 3.0 + 2.5      |
+| 3.0 * 2       | 3.0 * 2.0      |
+| 5 / 2.6       | 5.0 / 2.6      |
+| (5 + 2) / 2   | 7.0 / 2.0      |
 
-![{B1A2536D-2A07-42C0-8535-BF384C311979}.png](B1A2536D-2A07-42C0-8535-BF384C311979.png)
-
-  
-
-### **Coerción en asignaciones**
-
-  
-
-En una asignación `x := e` el tipo de la variable `x` y de la expresión e debe
-
-ser el mismo.
-
-  
-
+### Coerción en asignaciones
+En una asignación `x := e` el tipo de la variable `x` y de la expresión e debe ser el mismo.
 **Excepción**: Es posible asignar un valor entero a una variable real.
-
 La conversión de entero a real se realiza en forma automática.
 
-  
-
 ### **Precedencia de operadores**
-
-  
-
 Para la evaluación de expresiones aritméticas se debe seguir este orden:
-
-  
-
 1.  Evaluar expresiones parentizadas
+2. Aplicar operaciones de multiplicación y división (*, /, div, mod). Si hay varias en secuencia, entonces evaluarlas de izquierda a derecha.
+3. *Aplicar operaciones de suma y resta (+, -). Si hay varias en secuencia, entonces evaluarlas de izquierda a derecha.*
 
-2. Aplicar operaciones de multiplicación y división (*, /, div, mod). Si
-
-hay varias en secuencia, entonces evaluarlas de izquierda a derecha.*
-
-3. *Aplicar operaciones de suma y resta (+, -). Si hay varias en secuencia,
-
-entonces evaluarlas de izquierda a derecha.*
-
-  
-
-### ***Funciones aritméticas estándar (predefinidas)***
-
-  
-
+### Funciones aritméticas estándar (predefinidas)
 - *sqr(x) - retorna el cuadrado de x.*
-
 - *sqrt(x) - retorna la raíz cuadrada de x.*
-
 - *trunc(x), round(x) - conversión de real a entero.*
-
 - *abs(x) - valor absoluto.*
 
-  
-
-### *El tipo boolean*
-
-  
-
+### El tipo boolean
 - ***Constantes**: true, false.*
-
 - ***Operadores**:*
-
     - *and - conjunción*
-
     - *or - disyunción*
-
     - *not - negación*
 
-  
-
 ### *El tipo char*
-
-  
-
 *Cada valor del tipo char es un carácter simple.
-
 Los literales se representan entre comillas simples.*
-
-  
-
 - *Letras mayúsculas y minúsculas: 'A' 'B' 'z' 'h'*
-
 - *Dígitos: '0' '1' '2' '3'*
-
 - *Símbolos: '*' '@' '&' 'ˆ'
 
-  
-
 ### Las funciones ord y chr
-
-  
-
-Los caracteres se representan internamente en la computadora con valores
-
-enteros. Es decir que a cada carácter le corresponde un entero.
-
-  
-
+Los caracteres se representan internamente en la computadora con valores enteros. Es decir que a cada carácter le corresponde un entero.
 - ord - toma un carácter y devuelve el entero correspondiente.
-
 - chr - toma un entero y devuelve el carácter que representa.
-
-  
-
 Ejemplos:
-
-  
-
 - ord(‘A’) es 65 y chr(65) es ‘A’
-
 - ord(‘B’) es 66 y chr(66) es ‘B’
-
 - ord(‘0’) es 48 y chr(48) es ‘0’
-
 - ord(‘1’) es 49 y chr(49) es ‘1’
-
-  
-
-La función ord se puede aplicar a todos los tipos ordinales (más adelante se
-
-verá).
-
-  
+- 
+La función ord se puede aplicar a todos los tipos ordinales (más adelante se verá).
 
 ### Ejemplos de asignaciones
 
-  
-
 ```pascal
-
 var
-
-i,k : integer;
-
-x,y : real;
-
-bb : boolean;
-
-car : char;
-
+	i,k : integer;
+	x,y : real;
+	bb : boolean;
+	car : char;
 begin
-
-i:= 4;
-
-x:= 2.3;
-
-y:= 1; (* conversión implícita *)
-
-k:= trunc(x); (* conversión explícita *)
-
-y:= (y + sqr(x)) / 2;
-
-x:= i + k;
-
-bb:= true;
-
-bb:= (y < x) or (3 >= k + sqrt(i));
-
-car:= chr(32); (* carácter espacio *)
-
-i:= ord(car) + 1;
-
+	i:= 4;
+	x:= 2.3;
+	y:= 1; (* conversión implícita *)
+	k:= trunc(x); (* conversión explícita *)
+	y:= (y + sqr(x)) / 2;
+	x:= i + k;
+	bb:= true;
+	bb:= (y < x) or (3 >= k + sqrt(i));
+	car:= chr(32); (* carácter espacio *)
+	i:= ord(car) + 1;
 ...
-
-  
-
 ```
