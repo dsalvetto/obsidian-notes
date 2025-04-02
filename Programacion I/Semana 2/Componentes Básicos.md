@@ -97,28 +97,18 @@ Un identificador es una secuencia de caracteres alfanuméricos el primero de los
 ### Sintaxis de la declaración de variables (Diagrama)
 
 ##### Diagrama
-
-### **Sintaxis de la parte algorítmica**
+![[Sintaxis-de-la-declaracion-de-variables .jpg]]
+### Sintaxis de la parte algorítmica
 
   
 
 ```pascal
-
 cuerpo = 'begin'
-
-instruccion
-
-{ ';' instruccion }
-
-'end'
-
+			instruccion
+			{ ';' instruccion }
+			'end'
 ```
-
-  
-
-### **Observación**: El punto y coma es un separador y no finalizador de
-
-instrucción.
+**Observación**: El punto y coma es un separador y no finalizador de instrucción.
 
   
 
