@@ -99,9 +99,6 @@ Un identificador es una secuencia de caracteres alfanuméricos el primero de los
 ##### Diagrama
 ![[Sintaxis-de-la-declaracion-de-variables .jpg]]
 ### Sintaxis de la parte algorítmica
-
-  
-
 ```pascal
 cuerpo = 'begin'
 			instruccion
@@ -110,157 +107,65 @@ cuerpo = 'begin'
 ```
 **Observación**: El punto y coma es un separador y no finalizador de instrucción.
 
-  
-
-**Instrucciones**
-
-  
-
+### Instrucciones
 En el ejemplo tenemos 3 tipos de instrucciones:
-
-  
-
 - Entrada: ReadLn
-
 - Asignación: area:= base * altura / 2
-
 - Salida: WriteLn
-
 Se verán otras a lo largo del curso.
 
-  
-
-### **Asignación**
-
-  
-
+### Asignación
 Es una instrucción que permite modificar el contenido de una variable:
-
-  
-
-identificador := expresion
-
-  
-
-identificador representa la variable que va a ser asignada.
-
-expresión representa el valor que se asigna a la variable.
-
+	`identificador := expresion`
+*identificador* representa la variable que va a ser asignada.
+*expresión* representa el valor que se asigna a la variable.
 Sus tipos deben ser compatibles.
 
-  
-
-### **El Concepto de Tipo**
-
-  
-
-- Los tipos permiten indicar la característica de los valores (datos)
-
-manipulados en un programa.
-
+### El Concepto de Tipo
+- Los tipos permiten indicar la característica de los valores (datos) manipulados en un programa.
 - Toda variable o constante tiene asociado un tipo.
-
-- Esto ocurre también con los operadores, las funciones estándar y las
-
-definidas por el usuario.
-
-- Poseer tipos permite detectar ciertos errores de construcción en el
-
-código (chequeo de tipos).
+- Esto ocurre también con los operadores, las funciones estándar y las definidas por el usuario.
+- Poseer tipos permite detectar ciertos errores de construcción en el código (chequeo de tipos).
 
     Por ejemplo:
-
-    ![{7E7381E1-2C8A-43D4-B3C4-0E6986E8AB13}.png](7E7381E1-2C8A-43D4-B3C4-0E6986E8AB13.png)
-
-- En Pascal el chequeo de tipos se hace en tiempo de compilación.
-
-  
-
-### **Clasificación**
-
-  
-
+    ![[Concepto_de_tipo.jpg]]
+ - En Pascal el chequeo de tipos se hace en tiempo de compilación.
+ - 
+### Clasificación
 - Los tipos según su estructura:
-
     - elementales: cada valor es simple e indivisible.
-
     - estructurados: cada valor está compuesto por varios valores.
-
 - Otra clasificación:
-
     - estándar o predefinidos
-
     - definidos por el programador
 
-  
+### Tipos Elementales Predefinidos
+- integer → Números enteros.
+- real → Números reales.
+- boolean → El conjunto { true, false }
+- char → Los caracteres: letras, dígitos, símbolos, etc.
 
-### **Tipos Elementales Predefinidos**
-
-  
-
-integer → Números enteros.
-
-real → Números reales.
-
-boolean → El conjunto { true, false }
-
-char → Los caracteres: letras, dígitos, símbolos, etc.
-
-  
-
-### **El tipo integer**
-
-  
-
+### El tipo integer 
 Representa números enteros con o sin signo.
-
 Ejemplos: -32, 0, +123, 77.
-
 Es un tipo **acotado**. El máximo es maxint.
 
-  
-
-### **Expresiones aritméticas enteras**
-
-  
-
-Una expresión se construye mediante: constantes, variables, operadores y
-
-funciones.
+### Expresiones aritméticas enteras
+Una expresión se construye mediante: *constantes, variables, operadores y funciones.*
 
 **Operadores enteros**
-
-  
-
 - Suma: +
-
 - Resta: -
-
 - Multiplicación: *
-
 - División: div
-
 - Módulo: mod.
 
-  
-
-### **El tipo real**
-
-  
-
-Representa números “reales”.
-
-Las constantes se pueden representar en notación decimal o notación
-
-exponencial.
+### El tipo real
+Representa números “*reales*”.
+Las constantes se pueden representar en notación decimal o notación exponencial.
 
   
-
-![{59F9BEC4-494F-4348-BC65-AA8691E4D016}.png](59F9BEC4-494F-4348-BC65-AA8691E4D016.png)
-
-  
-
-### **Operadores aritméticos reales**
+### Operadores aritméticos reales
 
   
 
