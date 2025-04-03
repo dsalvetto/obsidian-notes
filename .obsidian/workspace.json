@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a13041e5411f5f24",
+        "id": "b744a91528f3b4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f03d35753779391c",
+            "id": "5c16b593f93e14f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion I/Semana 2/Entrada y Salida.md",
+                "file": "Programacion I/Semana 4/Repetición (for).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entrada y Salida"
+              "title": "Repetición (for)"
             }
           },
           {
-            "id": "8c4b6352f2444130",
+            "id": "35cb5cde44b5a582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion I/Semana 2/Material Semana 2.md",
+                "file": "Programacion I/Semana 4/Material Semana 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Material Semana 2"
-            }
-          },
-          {
-            "id": "0086a8e20734cec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estructuras de Control. Secuencia y Selección"
-            }
-          },
-          {
-            "id": "a022490f384ceb17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guía teórica para Entrada - Salida"
+              "title": "Material Semana 4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 203.5
   },
   "right": {
     "id": "5177a383b3682194",
@@ -137,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
+                "file": "Programacion I/Semana 4/Material Semana 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Estructuras de Control. Secuencia y Selección"
+              "title": "Enlaces entrantes de Material Semana 4"
             }
           },
           {
@@ -156,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
+                "file": "Programacion I/Semana 4/Material Semana 4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Estructuras de Control. Secuencia y Selección"
+              "title": "Enlaces salientes de Material Semana 4"
             }
           },
           {
@@ -185,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
+                "file": "Programacion I/Semana 4/Material Semana 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Estructuras de Control. Secuencia y Selección"
+              "title": "Esquema de Material Semana 4"
             }
           },
           {
@@ -224,30 +196,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0086a8e20734cec2",
+  "active": "35cb5cde44b5a582",
   "lastOpenFiles": [
-    "Programacion I/Images/if-then-else.png",
-    "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
-    "Programacion I/Semana 2/Entrada y Salida.md",
-    "Programacion I/Images/diagrama_la_secuencia.png",
+    "Programacion I/PDFs/Guía teórica para Repetición (for).md",
+    "Programacion I/Semana 4/Repetición (for).md",
+    "Programacion I/Semana 4/Material Semana 4.md",
+    "Programacion I/Semana 4",
+    "Programacion I/Semana 3/Material Semana 3.md",
+    "Programacion I/PDFs/Práctico 3.md",
+    "Programacion I/PDFs/Práctico 2.md",
+    "Programacion I/Images/Lectura_de_enteros.png",
+    "Programacion I/PDFs/Guía teórica para Secuencia y Selección.md",
     "Programacion I/Semana 2/Material Semana 2.md",
+    "Programacion I/Semana 2/Entrada y Salida.md",
+    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
+    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
+    "Programacion I/PDFs/Presentación del curso.md",
+    "Programacion I/PDFs/Práctico 1.md",
+    "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
+    "Programacion I/Images/Sintaxis_de_case.png",
+    "Programacion I/Images/if-then-else.png",
+    "Programacion I/Images/diagrama_la_secuencia.png",
     "Programacion I/Semana 3",
     "Programacion I/Semana 2/Componentes Básicos.md",
     "Programacion I/Semana 1/Introducción.md",
-    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
-    "Programacion I/Images/Lectura_de_enteros.png",
     "Programacion I/Images/El_tipo_real.jpg",
     "Concepto_de_tipo 1.jpg",
     "Concepto_de_tipo.jpg",
     "Programacion I/Images/Concepto_de_tipo.jpg",
     "Programacion I/Images/Sintaxis-de-la-declaracion-de-variables .jpg",
     "Programacion I/Images/compilar-pascal 1.png",
-    "{79B2D88A-DB0C-4222-AAA4-40856D93D4C9}.png",
-    "Programacion I/PDFs/Práctico 1.md",
-    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
     "Programacion I/Images",
-    "Programacion I/PDFs/Práctico 2.md",
-    "Programacion I/PDFs/Presentación del curso.md",
     "[Componentes Básicos.md",
     "[Componentes.md",
     "Programacion I/Semana 2",
