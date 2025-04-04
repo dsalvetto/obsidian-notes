@@ -11,10 +11,42 @@
             "id": "eb066d19bbd18562",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/PDFs P1/Práctico 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Práctico 5"
+            }
+          },
+          {
+            "id": "03272bf8f995e5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion I/PDFs P1/Práctico 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Práctico 6"
+            }
+          },
+          {
+            "id": "69a6de6967a87857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Razonamiento Lógico"
             }
           },
           {
@@ -31,7 +63,8 @@
               "title": "Material Semana 4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Razonamiento Lógico"
             }
           },
           {
@@ -122,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Razonamiento Lógico"
             }
           },
           {
@@ -150,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Razonamiento Lógico"
             }
           },
           {
@@ -173,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,30 +224,42 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eb066d19bbd18562",
+  "active": "69a6de6967a87857",
   "lastOpenFiles": [
-    "Programacion I/Semana 2/Componentes Básicos.md",
+    "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
+    "Matemática Inicial/Semana 1/Operadores.md",
+    "Matemática Inicial/Semana 3",
+    "Matemática Inicial/Semana 2/Ecuaciones - Inecuaciones.md",
+    "Matemática Inicial/Semana 2/Material Semana 2",
+    "Matemática Inicial/Semana 2",
+    "Matemática Inicial/PDFs M1/Libro Marilina Carena.md",
+    "Matemática Inicial/Semana 1",
+    "Matemática Inicial/PDFs M1",
+    "Programacion I/PDFs P1/Práctico 6.md",
+    "Matemática Inicial",
+    "Programacion I/PDFs P1/Práctico 5.md",
+    "Programacion I/Semana 5/Material Semana 5.md",
     "Programacion I/Semana 4/Material Semana 4.md",
+    "Programacion I/Semana 4/Repetición (for).md",
+    "Programacion I/Semana 4/Repetición Condicional.md",
+    "Programacion I/Semana 2/Componentes Básicos.md",
     "Programacion I/Semana 3/Material Semana 3.md",
     "Programacion I/Semana 2/Material Semana 2.md",
-    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
-    "Programacion I/Semana 4/Repetición Condicional.md",
+    "Programacion I/PDFs P1/Guía teórica para Componentes básicos.md",
     "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
     "Programacion I/Semana 5",
-    "Programacion I/Semana 4/Repetición (for).md",
-    "Programacion I/PDFs/Práctico 5.md",
-    "Programacion I/PDFs/Práctico 4.md",
-    "Programacion I/PDFs/Guía teórica para Repetición Condicional (while y repeat).md",
-    "Programacion I/PDFs/Guía teórica para Repetición (for).md",
+    "Programacion I/PDFs P1/Práctico 4.md",
+    "Programacion I/PDFs P1/Guía teórica para Repetición Condicional (while y repeat).md",
+    "Programacion I/PDFs P1/Guía teórica para Repetición (for).md",
     "Programacion I/Semana 4",
-    "Programacion I/PDFs/Práctico 3.md",
-    "Programacion I/PDFs/Práctico 2.md",
+    "Programacion I/PDFs P1/Práctico 3.md",
+    "Programacion I/PDFs P1/Práctico 2.md",
     "Programacion I/Images/Lectura_de_enteros.png",
-    "Programacion I/PDFs/Guía teórica para Secuencia y Selección.md",
+    "Programacion I/PDFs P1/Guía teórica para Secuencia y Selección.md",
     "Programacion I/Semana 2/Entrada y Salida.md",
-    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
-    "Programacion I/PDFs/Presentación del curso.md",
-    "Programacion I/PDFs/Práctico 1.md",
+    "Programacion I/PDFs P1/Guía teórica para Entrada - Salida.md",
+    "Programacion I/PDFs P1/Presentación del curso.md",
+    "Programacion I/PDFs P1/Práctico 1.md",
     "Programacion I/Images/Sintaxis_de_case.png",
     "Programacion I/Images/if-then-else.png",
     "Programacion I/Images/diagrama_la_secuencia.png",
@@ -222,15 +271,6 @@
     "Programacion I/Images/Concepto_de_tipo.jpg",
     "Programacion I/Images/Sintaxis-de-la-declaracion-de-variables .jpg",
     "Programacion I/Images/compilar-pascal 1.png",
-    "Programacion I/Images",
-    "[Componentes Básicos.md",
-    "[Componentes.md",
-    "Programacion I/Semana 2",
-    "PPT.md",
-    "Programacion I/PDFs",
-    "Programacion I/Semana 1",
-    "Programacion I",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Material Semana 2 1c15e86a483980f4b85cca87c2838da7.md",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc.md"
+    "Programacion I/Images"
   ]
 }
