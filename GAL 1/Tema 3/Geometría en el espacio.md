@@ -11,3 +11,4 @@ En [OpenFing](https://open.fing.edu.uy/courses/gal119/), este tema es tratado en
 
 [[geometria_en_el_espacio.pdf]]
 [[Práctico 5 – Geometría en el espacio. Rectas y planos]]
+[[pr]]
