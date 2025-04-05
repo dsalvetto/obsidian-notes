@@ -11,12 +11,14 @@
             "id": "69a6de6967a87857",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf"
+                "file": "GAL 1/Tema 1/Sistema de Ecuaciones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "sistemas_de_ecuaciones_lineales"
+              "icon": "lucide-file",
+              "title": "Sistema de Ecuaciones"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
+                "file": "GAL 1/Tema 1/Sistema de Ecuaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de sistemas_de_ecuaciones_lineales"
+              "title": "Enlaces entrantes de Sistema de Ecuaciones"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
+                "file": "GAL 1/Tema 1/Sistema de Ecuaciones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de sistemas_de_ecuaciones_lineales"
+              "title": "Enlaces salientes de Sistema de Ecuaciones"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
+                "file": "GAL 1/Tema 1/Sistema de Ecuaciones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de sistemas_de_ecuaciones_lineales"
+              "title": "Esquema de Sistema de Ecuaciones"
             }
           },
           {
@@ -179,11 +181,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "69a6de6967a87857",
+  "active": "91e46512f1720447",
   "lastOpenFiles": [
-    "GAL 1/PDFs/Sistemas de ecuaciones lineales.md",
+    "GAL 1/Sin nombre",
+    "GAL 1/PDFs/álgebra_de_matrices.pdf",
     "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
+    "GAL 1/Tema 1/Sistema de Ecuaciones.md",
+    "GAL 1/Tema 1",
     "GAL 1/Sistema de ecuaciones.md",
+    "GAL 1/PDFs/Sistemas de ecuaciones lineales.md",
     "GAL 1/PDFs",
     "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
     "GAL 1",
@@ -196,7 +202,6 @@
     "Matemática Inicial/Semana 1",
     "Matemática Inicial/PDFs M1",
     "Programacion I/PDFs P1/Práctico 6.md",
-    "Matemática Inicial",
     "Programacion I/PDFs P1/Práctico 5.md",
     "Programacion I/Semana 5/Material Semana 5.md",
     "Programacion I/Semana 4/Material Semana 4.md",
@@ -207,7 +212,6 @@
     "Programacion I/Semana 2/Material Semana 2.md",
     "Programacion I/PDFs P1/Guía teórica para Componentes básicos.md",
     "Programacion I/Semana 3/Estructuras de Control. Secuencia y Selección.md",
-    "Programacion I/Semana 5",
     "Programacion I/PDFs P1/Práctico 4.md",
     "Programacion I/PDFs P1/Guía teórica para Repetición Condicional (while y repeat).md",
     "Programacion I/PDFs P1/Guía teórica para Repetición (for).md",
@@ -216,7 +220,6 @@
     "Programacion I/Images/Lectura_de_enteros.png",
     "Programacion I/PDFs P1/Guía teórica para Secuencia y Selección.md",
     "Programacion I/Semana 2/Entrada y Salida.md",
-    "Programacion I/PDFs P1/Guía teórica para Entrada - Salida.md",
     "Programacion I/Images/Sintaxis_de_case.png",
     "Programacion I/Images/if-then-else.png",
     "Programacion I/Images/diagrama_la_secuencia.png",
