@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb066d19bbd18562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion I/PDFs P1/Práctico 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Práctico 5"
-            }
-          },
-          {
-            "id": "03272bf8f995e5fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion I/PDFs P1/Práctico 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Práctico 6"
-            }
-          },
-          {
             "id": "69a6de6967a87857",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
-                "mode": "source",
-                "source": false
+                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Razonamiento Lógico"
-            }
-          },
-          {
-            "id": "5dcf3d001e7d3e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion I/Semana 4/Material Semana 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Material Semana 4"
+              "icon": "lucide-file-text",
+              "title": "sistemas_de_ecuaciones_lineales"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
+                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Razonamiento Lógico"
+              "title": "Enlaces entrantes de sistemas_de_ecuaciones_lineales"
             }
           },
           {
@@ -156,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
+                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Razonamiento Lógico"
+              "title": "Enlaces salientes de sistemas_de_ecuaciones_lineales"
             }
           },
           {
@@ -185,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
+                "file": "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Razonamiento Lógico"
+              "title": "Esquema de sistemas_de_ecuaciones_lineales"
             }
           },
           {
@@ -226,7 +181,12 @@
   },
   "active": "69a6de6967a87857",
   "lastOpenFiles": [
+    "GAL 1/PDFs/Sistemas de ecuaciones lineales.md",
+    "GAL 1/PDFs/sistemas_de_ecuaciones_lineales.pdf",
+    "GAL 1/Sistema de ecuaciones.md",
+    "GAL 1/PDFs",
     "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
+    "GAL 1",
     "Matemática Inicial/Semana 1/Operadores.md",
     "Matemática Inicial/Semana 3",
     "Matemática Inicial/Semana 2/Ecuaciones - Inecuaciones.md",
@@ -251,26 +211,20 @@
     "Programacion I/PDFs P1/Práctico 4.md",
     "Programacion I/PDFs P1/Guía teórica para Repetición Condicional (while y repeat).md",
     "Programacion I/PDFs P1/Guía teórica para Repetición (for).md",
-    "Programacion I/Semana 4",
     "Programacion I/PDFs P1/Práctico 3.md",
     "Programacion I/PDFs P1/Práctico 2.md",
     "Programacion I/Images/Lectura_de_enteros.png",
     "Programacion I/PDFs P1/Guía teórica para Secuencia y Selección.md",
     "Programacion I/Semana 2/Entrada y Salida.md",
     "Programacion I/PDFs P1/Guía teórica para Entrada - Salida.md",
-    "Programacion I/PDFs P1/Presentación del curso.md",
-    "Programacion I/PDFs P1/Práctico 1.md",
     "Programacion I/Images/Sintaxis_de_case.png",
     "Programacion I/Images/if-then-else.png",
     "Programacion I/Images/diagrama_la_secuencia.png",
-    "Programacion I/Semana 3",
-    "Programacion I/Semana 1/Introducción.md",
     "Programacion I/Images/El_tipo_real.jpg",
     "Concepto_de_tipo 1.jpg",
     "Concepto_de_tipo.jpg",
     "Programacion I/Images/Concepto_de_tipo.jpg",
     "Programacion I/Images/Sintaxis-de-la-declaracion-de-variables .jpg",
-    "Programacion I/Images/compilar-pascal 1.png",
-    "Programacion I/Images"
+    "Programacion I/Images/compilar-pascal 1.png"
   ]
 }
