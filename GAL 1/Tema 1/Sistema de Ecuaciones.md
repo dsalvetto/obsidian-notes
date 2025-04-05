@@ -1,4 +1,4 @@
-
+#tema1 #gal #teorico
 Esta sección está dedicada al primer tema del curso: Sistemas de ecuaciones lineales y matrices.
 
 Este tema será trabajado durante las primeras cuatro semanas del curso y contará con cuatro repartidos de ejercicios, los cuales están disponibles en la pestaña "Prácticos".  
@@ -13,3 +13,8 @@ En [OpenFing](https://open.fing.edu.uy/courses/gal119/), este tema es tratado en
 
 [[sistemas_de_ecuaciones_lineales.pdf]]
 [[álgebra_de_matrices.pdf]]
+
+[[Práctico 0 - Repaso de conjuntos y funciones]]
+[[Práctico 1 - Sistemas de ecuaciones lineales]]
+[[Práctico 2 - Matrices, operaciones y aplicaciones]]
+[[Práctico 3 - Matrices invertibles y rango]]
