@@ -15,5 +15,5 @@ Para trabajar en estos temas es necesario leer previamente el **capítulo 5** (
 
 ### Materiales prácticos
 
-[[Práctico 3]]
+[[practico_p1_3]]
 [Soluciones de ejercicios del Práctico 3 Archivo](https://eva.fing.edu.uy/mod/resource/view.php?id=177845)

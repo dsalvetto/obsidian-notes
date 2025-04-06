@@ -1,2 +1,2 @@
 #tema1 #gal #practico
-![[practico_2.pdf]]
+![[practico_2_gal.pdf]]

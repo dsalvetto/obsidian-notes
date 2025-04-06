@@ -14,8 +14,8 @@ Para trabajar en estos temas es necesario leer previamente los **capítulos 1, 2
 [Video de OpenFing sobre Componentes básicos (parte 2) y Entrada / Salida](https://eva.fing.edu.uy/mod/url/view.php?id=85525)
 
 ## Material Práctico
-[[Práctico 1]]
-[[Práctico 2]]
+[[practico_p1_1]]
+[[practico_p1_2]]
 
 - [Soluciones de ejercicios del Práctico 1 Archivo](https://eva.fing.edu.uy/mod/resource/view.php?id=177396)    
 - [Soluciones de ejercicios del Práctico 2 Archivo](https://eva.fing.edu.uy/mod/resource/view.php?id=177397)

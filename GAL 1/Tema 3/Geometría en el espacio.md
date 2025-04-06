@@ -1,3 +1,4 @@
+#tema3 #gal #teorico 
 Esta sección está dedicada al tercer tema del curso: Geometría en el espacio.  
 
 Este tema será trabajado durante la sexta y séptima semana del curso y contará con dos repartidos de ejercicios, los cuales están disponibles en la pestaña "Prácticos".  
@@ -11,4 +12,4 @@ En [OpenFing](https://open.fing.edu.uy/courses/gal119/), este tema es tratado en
 
 [[geometria_en_el_espacio.pdf]]
 [[Práctico 5 – Geometría en el espacio. Rectas y planos]]
-[[pr]]
+[[Práctico 6 - Producto escalar y vectorial]]

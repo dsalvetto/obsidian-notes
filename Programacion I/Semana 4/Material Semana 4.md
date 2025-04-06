@@ -17,5 +17,5 @@ Para trabajar en estos temas es necesario leer previamente el **capítulo 6** (c
 [Video de OpenFing sobre Repetición (for)](https://eva.fing.edu.uy/mod/url/view.php?id=68419)
 [Video de OpenFing sobre Repetición Condicional (while)](https://eva.fing.edu.uy/mod/url/view.php?id=68811)
 ### Materiales prácticos
-[[Práctico 4]]
-[[Práctico 5]]
+[[practico_p1_4]]
+[[practico_p1_5]]

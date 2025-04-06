@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAL 1/Tema 3/Geometría en el espacio.md",
+                "file": "Programacion I/Semana 5/Material Semana 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometría en el espacio"
+              "title": "Material Semana 5"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAL 1/Tema 3/Geometría en el espacio.md",
+                "file": "Programacion I/Semana 5/Material Semana 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Geometría en el espacio"
+              "title": "Enlaces entrantes de Material Semana 5"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GAL 1/Tema 3/Geometría en el espacio.md",
+                "file": "Programacion I/Semana 5/Material Semana 5.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Geometría en el espacio"
+              "title": "Enlaces salientes de Material Semana 5"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAL 1/Tema 3/Geometría en el espacio.md",
+                "file": "Programacion I/Semana 5/Material Semana 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Geometría en el espacio"
+              "title": "Esquema de Material Semana 5"
             }
           },
           {
@@ -183,41 +183,42 @@
   },
   "active": "69a6de6967a87857",
   "lastOpenFiles": [
-    "GAL 1/Tema 3/Práctico 6 - Producto escalar y vectorial.md",
-    "GAL 1/Tema 3/Práctico 5 – Geometría en el espacio. Rectas y planos.md",
-    "GAL 1/PDFs/practico_6.pdf",
-    "GAL 1/Tema 3/Geometría en el espacio.md",
-    "GAL 1/Tema 2/Práctico 4 - Determinantes y regla de Cramer.md",
-    "GAL 1/PDFs/practico_5.pdf",
-    "GAL 1/Tema 2/Determinantes.md",
-    "GAL 1/Tema 1/Sistema de Ecuaciones.md",
-    "GAL 1/Tema 1/Práctico 3 - Matrices invertibles y rango.md",
-    "GAL 1/Tema 1/Práctico 2 - Matrices, operaciones y aplicaciones.md",
-    "GAL 1/Tema 1/Práctico 1 - Sistemas de ecuaciones lineales.md",
-    "GAL 1/Tema 1/Práctico 0 - Repaso de conjuntos y funciones.md",
-    "GAL 1/PDFs/practico_4.pdf",
-    "GAL 1/PDFs/practico_2.pdf",
-    "GAL 1/PDFs/practico_1.pdf",
-    "GAL 1/PDFs/practico_3.pdf",
-    "GAL 1/PDFs/practico_0.pdf",
-    "Programacion I/PDFs P1/Práctico 1.md",
-    "Programacion I/Semana 2/Material Semana 2.md",
-    "Programacion I/Semana 2/Entrada y Salida.md",
-    "GAL 1/Tema 5/Transformaciones lineales.md",
-    "GAL 1/PDFs/transformaciones_lineales.pdf",
-    "GAL 1/Tema 4/Espacios vectoriales.md",
-    "GAL 1/PDFs/espacios_vectoriales.pdf",
-    "GAL 1/Tema 5",
-    "GAL 1/Sistema de ecuaciones.md",
-    "GAL 1/PDFs/Sistemas de ecuaciones lineales.md",
-    "Matemática Inicial/Semana 3/Razonamiento Lógico.md",
-    "Matemática Inicial/Semana 1/Operadores.md",
-    "Matemática Inicial/Semana 2/Ecuaciones - Inecuaciones.md",
-    "Matemática Inicial/PDFs M1/Libro Marilina Carena.md",
-    "Programacion I/PDFs P1/Práctico 6.md",
-    "Programacion I/PDFs P1/Práctico 5.md",
+    "Programacion I/Semana 4/Repetición Condicional.md",
     "Programacion I/Semana 5/Material Semana 5.md",
     "Programacion I/Semana 4/Material Semana 4.md",
+    "Programacion I/Semana 3/Material Semana 3.md",
+    "Programacion I/Semana 2/Material Semana 2.md",
+    "Programacion I/PDFs P1/practico_p1_1.md",
+    "Programacion I/Semana 2/Entrada y Salida.md",
+    "Programacion I/Semana 2/Componentes Básicos.md",
+    "Programacion I/Semana 1/Introducción.md",
+    "Práctico 4.md",
+    "GAL 1/Tema 5/Transformaciones lineales.md",
+    "GAL 1/Tema 5/Práctico 11 - Matriz asociada a una transformación lineal.md",
+    "GAL 1/Tema 5/Práctico 10 - Transformaciones lineales. Núcleo e imagen. Teorema de las dimensiones.md",
+    "GAL 1/PDFs/practico_11_gal.pdf",
+    "Programacion I/PDFs P1/practico_p1_6.md",
+    "Programacion I/PDFs P1/practico_p1_5.md",
+    "Programacion I/PDFs P1/practico_p1_4.md",
+    "Programacion I/PDFs P1/practico_p1_3.md",
+    "Programacion I/PDFs P1/practico_p1_2.md",
+    "GAL 1/PDFs/practico_10_gal.pdf",
+    "GAL 1/Tema 4/Práctico 9 - Base y dimensión.md",
+    "GAL 1/Tema 4/Espacios vectoriales.md",
+    "GAL 1/Tema 3/Geometría en el espacio.md",
+    "GAL 1/Tema 4/Práctico 8 - Combinaciones lineales, dependencia e independencia lineal.md",
+    "GAL 1/Tema 4/Práctico 7 - Espacios y subespacios vectoriales.md",
+    "GAL 1/PDFs/practico_4_gal.pdf",
+    "GAL 1/PDFs/practico_3_gal.pdf",
+    "GAL 1/PDFs/practico_2_gal.pdf",
+    "GAL 1/PDFs/practico_1_gal.pdf",
+    "GAL 1/Tema 1/Práctico 0 - Repaso de conjuntos y funciones.md",
+    "GAL 1/PDFs/practico_0_gal.pdf",
+    "GAL 1/Tema 3/Práctico 6 - Producto escalar y vectorial.md",
+    "GAL 1/Tema 3/Práctico 5 – Geometría en el espacio. Rectas y planos.md",
+    "GAL 1/PDFs/practico_8_gal.pdf",
+    "GAL 1/PDFs/practico_7_gal.pdf",
+    "GAL 1/PDFs/practico_9_gal.pdf",
     "Programacion I/Images/Lectura_de_enteros.png",
     "Programacion I/Images/Sintaxis_de_case.png",
     "Programacion I/Images/if-then-else.png",

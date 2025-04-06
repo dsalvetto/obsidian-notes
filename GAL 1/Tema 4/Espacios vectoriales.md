@@ -1,3 +1,4 @@
+#tema4 #gal #teorico 
 Esta sección está dedicada al cuarto tema del curso: Espacios vectoriales.
 
 Este tema será trabajado durante las semanas 8, 9 y 10 del curso y contará con tres repartidos de ejercicios, los cuales están disponibles en la pestaña "Prácticos".  
@@ -10,5 +11,8 @@ El material teórico de para este tema será el capítulo 5 de las notas de Marc
 En [OpenFing](https://open.fing.edu.uy/courses/gal119/), este tema es tratado en los videos 16 al 22 del teórico del 2019.
 
 [[espacios_vectoriales.pdf]]
+[[Práctico 7 - Espacios y subespacios vectoriales]]
+[[Práctico 8 - Combinaciones lineales, dependencia e independencia lineal]]
+[[Práctico 9 - Base y dimensión]]
 
 
