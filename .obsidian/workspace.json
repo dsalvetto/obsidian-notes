@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a13041e5411f5f24",
+        "id": "b744a91528f3b4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd57cbd60d0e404",
+            "id": "69a6de6967a87857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 6/Material Semana 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Componentes Básicos"
-            }
-          },
-          {
-            "id": "3f3568a220d457a5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://eva.fing.edu.uy/pluginfile.php/219324/mod_resource/content/5/03-GuiaEntradaYSalida.pdf",
-                "title": "Entrada y Salida",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Entrada y Salida"
+              "title": "Material Semana 6"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "right": {
     "id": "5177a383b3682194",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 6/Material Semana 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Componentes Básicos"
+              "title": "Enlaces entrantes de Material Semana 6"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 6/Material Semana 6.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Componentes Básicos"
+              "title": "Enlaces salientes de Material Semana 6"
             }
           },
           {
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion I/Semana 2/Componentes Básicos.md",
+                "file": "Programacion I/Semana 6/Material Semana 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Componentes Básicos"
+              "title": "Esquema de Material Semana 6"
             }
           },
           {
@@ -194,33 +180,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91e46512f1720447",
+  "active": "69a6de6967a87857",
   "lastOpenFiles": [
-    "Programacion I/Images/Entrada-Salida-1.png",
+    "Programacion I/Semana 5/Material Semana 5.md",
+    "Programacion I/Semana 6/Material Semana 6.md",
+    "Programacion I/Semana 6",
+    "Programacion I/Semana 4/Repetición Condicional.md",
+    "Programacion I/Semana 4/Material Semana 4.md",
+    "Programacion I/Semana 3/Material Semana 3.md",
+    "Programacion I/Semana 2/Material Semana 2.md",
+    "Programacion I/PDFs P1/practico_p1_1.md",
+    "Programacion I/Semana 2/Entrada y Salida.md",
     "Programacion I/Semana 2/Componentes Básicos.md",
-    "Programacion I/Images",
-    "Programacion I/PDFs/Guía teórica para Componentes básicos.md",
-    "Programacion I/PDFs/Práctico 2.md",
-    "Programacion I/PDFs/Práctico 1.md",
-    "Programacion I/PDFs/Guía teórica para Entrada - Salida.md",
-    "Programacion I/PDFs/Presentación del curso.md",
     "Programacion I/Semana 1/Introducción.md",
-    "[Componentes Básicos.md",
-    "[Componentes.md",
-    "Programacion I/Semana 2",
-    "PPT.md",
-    "Programacion I/PDFs",
-    "Programacion I/Semana 1",
-    "Programacion I",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Material Semana 2 1c15e86a483980f4b85cca87c2838da7.md",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc.md",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577.md",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc/F8F94AD2-EE30-4D0E-93B6-09904609828D.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Entrada y Salida 1bc5e86a48398094aba0c573f0720cfc/2506D50D-628E-4E06-8D15-9D123B381BB8.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/B1A2536D-2A07-42C0-8535-BF384C311979.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/63F08CE8-DFD6-478C-A868-817894AF797F.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/59F9BEC4-494F-4348-BC65-AA8691E4D016.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/18F2FA80-5B9B-4909-AEE4-73C1C299FA52.png",
-    "Programación I 1b85e86a483980cbb6c0c20d330910fd/Componentes básicos 1b95e86a4839806c910de38321a47577/7E7381E1-2C8A-43D4-B3C4-0E6986E8AB13.png"
+    "Práctico 4.md",
+    "GAL 1/Tema 5/Transformaciones lineales.md",
+    "GAL 1/Tema 5/Práctico 11 - Matriz asociada a una transformación lineal.md",
+    "GAL 1/Tema 5/Práctico 10 - Transformaciones lineales. Núcleo e imagen. Teorema de las dimensiones.md",
+    "GAL 1/PDFs/practico_11_gal.pdf",
+    "Programacion I/PDFs P1/practico_p1_6.md",
+    "Programacion I/PDFs P1/practico_p1_5.md",
+    "Programacion I/PDFs P1/practico_p1_4.md",
+    "Programacion I/PDFs P1/practico_p1_3.md",
+    "Programacion I/PDFs P1/practico_p1_2.md",
+    "GAL 1/PDFs/practico_10_gal.pdf",
+    "GAL 1/Tema 4/Práctico 9 - Base y dimensión.md",
+    "GAL 1/Tema 4/Espacios vectoriales.md",
+    "GAL 1/Tema 3/Geometría en el espacio.md",
+    "GAL 1/Tema 4/Práctico 8 - Combinaciones lineales, dependencia e independencia lineal.md",
+    "GAL 1/Tema 4/Práctico 7 - Espacios y subespacios vectoriales.md",
+    "GAL 1/PDFs/practico_4_gal.pdf",
+    "GAL 1/PDFs/practico_3_gal.pdf",
+    "GAL 1/PDFs/practico_2_gal.pdf",
+    "GAL 1/PDFs/practico_1_gal.pdf",
+    "GAL 1/Tema 1/Práctico 0 - Repaso de conjuntos y funciones.md",
+    "GAL 1/PDFs/practico_0_gal.pdf",
+    "GAL 1/Tema 3/Práctico 6 - Producto escalar y vectorial.md",
+    "GAL 1/PDFs/practico_8_gal.pdf",
+    "GAL 1/PDFs/practico_7_gal.pdf",
+    "Programacion I/Images/Lectura_de_enteros.png",
+    "Programacion I/Images/Sintaxis_de_case.png",
+    "Programacion I/Images/if-then-else.png",
+    "Programacion I/Images/diagrama_la_secuencia.png",
+    "Programacion I/Images/El_tipo_real.jpg",
+    "Concepto_de_tipo 1.jpg",
+    "Concepto_de_tipo.jpg",
+    "Programacion I/Images/Concepto_de_tipo.jpg",
+    "Programacion I/Images/Sintaxis-de-la-declaracion-de-variables .jpg",
+    "Programacion I/Images/compilar-pascal 1.png"
   ]
 }

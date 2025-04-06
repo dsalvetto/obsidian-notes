@@ -1,0 +1,2 @@
+https://eva.fing.edu.uy/pluginfile.php/499166/mod_resource/content/2/Carena_Manual%20Matematica%20Preuni%202ed_C%C3%A1tedra_DIGITAL.pdf
+![Libro Marilina Carena](https://eva.fing.edu.uy/pluginfile.php/499166/mod_resource/content/2/Carena_Manual%20Matematica%20Preuni%202ed_C%C3%A1tedra_DIGITAL.pdf) M1
