@@ -153,20 +153,20 @@
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
+      "graph:Abrir vista gráfica": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false
     }
   },
   "active": "35f7353663356fd3",
   "lastOpenFiles": [
+    "Programacion I/Semana 2/Componentes Básicos.md",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd_all.csv",
     "Programación I 1b85e86a483980cbb6c0c20d330910fd.csv",
-    "Programacion I/Semana 2/Componentes Básicos.md",
     "Programacion I/Semana 1/Introducción.md",
     "Programacion I/PDFs/Práctico 2.md",
     "Programacion I/PDFs/Práctico 1.md",
